@@ -1,5 +1,5 @@
-github.com/achandak123/jwt-go v3.2.0+incompatible h1:Zc7Vq5mLRNiNrGPohG0Ddfw9rADRzPwx0Q7H0HU6blU=
-github.com/achandak123/jwt-go v3.2.0+incompatible/go.mod h1:MuM84TZYwgQ/aMJAb+4O28IG3ZlB/UlXMlbQNwa8DPA=
+github.com/achandak123/jwt-go v5.0.0+incompatible h1:wTYSCBlz5/8/qiaJFrXokDAcGGamr5MJIulvyDzjq/0=
+github.com/achandak123/jwt-go v5.0.0+incompatible/go.mod h1:MuM84TZYwgQ/aMJAb+4O28IG3ZlB/UlXMlbQNwa8DPA=
 github.com/codegangsta/inject v0.0.0-20150114235600-33e0aa1cb7c0 h1:sDMmm+q/3+BukdIpxwO365v/Rbspp2Nt5XntgQRXq8Q=
 github.com/codegangsta/inject v0.0.0-20150114235600-33e0aa1cb7c0/go.mod h1:4Zcjuz89kmFXt9morQgcfYZAYZ5n8WHjt81YYWIwtTM=
 github.com/dgrijalva/jwt-go v3.2.0+incompatible h1:7qlOGliEKZXTDg6OTjfoBKDXWrumCAMpl/TFQ4/5kLM=

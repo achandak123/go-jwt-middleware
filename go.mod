@@ -3,7 +3,7 @@ module github.com/auth0/go-jwt-middleware
 go 1.14
 
 require (
-	github.com/achandak123/jwt-go v3.2.0+incompatible
+	github.com/achandak123/jwt-go v5.0.0+incompatible
 	github.com/codegangsta/inject v0.0.0-20150114235600-33e0aa1cb7c0 // indirect
 	github.com/dgrijalva/jwt-go v3.2.0+incompatible // indirect
 	github.com/form3tech-oss/jwt-go v3.2.2+incompatible
